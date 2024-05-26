@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kirth\\source\\repos\\Books\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF345474-8F0D-4A0D-8B1E-A7068DBA1424}|Books\\Books.csproj|c:\\users\\kirth\\source\\repos\\books\\books\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF345474-8F0D-4A0D-8B1E-A7068DBA1424}|Books\\Books.csproj|solutionrelative:books\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8030EE59-F3DB-4EA1-9EC5-32E0EFA1C631}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\kirth\\source\\repos\\books\\dataaccesslayer\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8030EE59-F3DB-4EA1-9EC5-32E0EFA1C631}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8030EE59-F3DB-4EA1-9EC5-32E0EFA1C631}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\kirth\\source\\repos\\books\\dataaccesslayer\\repository\\entities\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8030EE59-F3DB-4EA1-9EC5-32E0EFA1C631}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\entities\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8030EE59-F3DB-4EA1-9EC5-32E0EFA1C631}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\kirth\\source\\repos\\books\\dataaccesslayer\\repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8030EE59-F3DB-4EA1-9EC5-32E0EFA1C631}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF345474-8F0D-4A0D-8B1E-A7068DBA1424}|Books\\Books.csproj|c:\\users\\kirth\\source\\repos\\books\\books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF345474-8F0D-4A0D-8B1E-A7068DBA1424}|Books\\Books.csproj|solutionrelative:books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF345474-8F0D-4A0D-8B1E-A7068DBA1424}|Books\\Books.csproj|c:\\users\\kirth\\source\\repos\\books\\books\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF345474-8F0D-4A0D-8B1E-A7068DBA1424}|Books\\Books.csproj|solutionrelative:books\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kirth\\source\\repos\\Books\\Books\\Program.cs",
+              "RelativeDocumentMoniker": "Books\\Program.cs",
+              "ToolTip": "C:\\Users\\kirth\\source\\repos\\Books\\Books\\Program.cs",
+              "RelativeToolTip": "Books\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T05:29:06.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksService.cs",
+              "DocumentMoniker": "C:\\Users\\kirth\\source\\repos\\Books\\DataAccessLayer\\Services\\BooksService.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Services\\BooksService.cs",
+              "ToolTip": "C:\\Users\\kirth\\source\\repos\\Books\\DataAccessLayer\\Services\\BooksService.cs",
+              "RelativeToolTip": "DataAccessLayer\\Services\\BooksService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T05:24:42.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\kirth\\source\\repos\\Books\\DataAccessLayer\\Repository\\Entities\\Books.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\Entities\\Books.cs",
+              "ToolTip": "C:\\Users\\kirth\\source\\repos\\Books\\DataAccessLayer\\Repository\\Entities\\Books.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\Entities\\Books.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T05:20:47.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kirth\\source\\repos\\Books\\DataAccessLayer\\Repository\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repository\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\kirth\\source\\repos\\Books\\DataAccessLayer\\Repository\\AppDbContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repository\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T05:18:38.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kirth\\source\\repos\\Books\\Books\\appsettings.json",
+              "RelativeDocumentMoniker": "Books\\appsettings.json",
+              "ToolTip": "C:\\Users\\kirth\\source\\repos\\Books\\Books\\appsettings.json",
+              "RelativeToolTip": "Books\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-26T05:05:01.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\kirth\\source\\repos\\Books\\Books\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Books\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\kirth\\source\\repos\\Books\\Books\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Books\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwDQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T04:56:48.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
